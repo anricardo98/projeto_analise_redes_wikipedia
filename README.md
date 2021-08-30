@@ -1,0 +1,1 @@
+# projeto_analise_redes_wikipedia
